@@ -1,21 +1,14 @@
-# Crop Yield Prediction  
+🌾 **Crop Yield Prediction — Machine Learning Project**
+📌 **Overview**
 
-📌 **This project will predict the Crop Yield using ML thecniches**
+This project aims to predict **crop yield (hg/ha)** using classical Machine Learning models based on environmental and agricultural data.
+It demonstrates a full end-to-end Data Science workflow including:
+- Data collection and loading
+- Exploratory Data Analysis (EDA)
+- Feature preprocessing
+- Model training and comparison
+- Performance evaluation
+- Model interpretation
+- Conclusions and real-world applications
 
-## 🚀 Objectives  
-- [x] Importing libraries and data  
-- [x] Checking data and EDA
-- [x] Data preparation and training
-- [ ] Test and Evaluate Models (ongoing)
-- [ ] 
-
-## 📦 Prerequisites  
-- Python 3.10+  
-- Libraries: `pandas`  
-
-## ⚙️ How to Run
-```bash
-git clone https://github.com/andrefpvalenga/crop-yeld-project
-cd crop-yield-prediction  
-pip install -r requirements.txt  
-python main.py  
+The goal is to build a baseline model capable of supporting agricultural decision-making in real scenarios (cooperatives, agtechs, government agencies, farms, insurance, trading, etc.). 
