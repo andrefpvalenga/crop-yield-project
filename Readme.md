@@ -87,3 +87,15 @@ The **Random Forest Regressor** performed the best in the baseline setup.
 - Consistent performance across folds in cross-validation
 
 ___
+
+### 📈 Results (Summary)
+
+| Model             | Performance Summary                          |
+| ----------------- | -------------------------------------------- |
+| Decision Tree     | Solid performance; close results to RF       |
+| Gradient Boosting | Lowest performance among the three models    |
+| **Random Forest** | Best overall results; slightly superior to DT|
+
+> For full metrics (MAE, MSE, RMSE, R²), refer to the notebook.
+
+___
