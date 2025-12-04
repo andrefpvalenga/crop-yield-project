@@ -28,7 +28,7 @@ crop-yield-project/
 
 ___
 
-📊 **Dataset**
+### 📊 **Dataset**
 
 The dataset contains agricultural and environmental information per **country**, **crop type**, and **year**, including:
 | Feature                       | Description                       |
@@ -42,3 +42,5 @@ The dataset contains agricultural and environmental information per **country**,
 | pesticides_tonnes             | Pesticide usage                   |
 
 It is a simplified version of data available at **FAO (Food and Agriculture Organization)** and **World Data Bank**.
+
+___
