@@ -16,7 +16,7 @@ The goal is to build a baseline model capable of supporting agricultural decisio
 
 ___
 
-📁 **Project Structure**
+### 📁 **Project Structure**
 ```
 crop-yield-project/
 │── CropYieldPrediction.ipynb   # Main notebook
