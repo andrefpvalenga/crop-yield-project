@@ -26,4 +26,19 @@ crop-yield-project/
 │── README.md
 ```
 
---
+___
+
+📊 **Dataset**
+
+The dataset contains agricultural and environmental information per **country**, **crop type**, and **year**, including:
+| Feature                       | Description                       |
+| ----------------------------- | --------------------------------- |
+| Area                          | Country/region                    |
+| Item                          | Crop type                         |
+| Year                          | Year of production                |
+| hg/ha_yield                   | Productivity per hectare (target) |
+| average_rain_fall_mm_per_year | Annual rainfall                   |
+| avg_temp                      | Average temperature               |
+| pesticides_tonnes             | Pesticide usage                   |
+
+It is a simplified version of data available at **FAO (Food and Agriculture Organization)** and **World Data Bank**.
