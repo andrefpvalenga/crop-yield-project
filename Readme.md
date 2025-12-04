@@ -13,3 +13,6 @@ It demonstrates a full end-to-end Data Science workflow including:
 - Conclusions and real-world applications
 
 The goal is to build a baseline model capable of supporting agricultural decision-making in real scenarios (cooperatives, agtechs, government agencies, farms, insurance, trading, etc.). 
+
+___
+
