@@ -16,3 +16,11 @@ The goal is to build a baseline model capable of supporting agricultural decisio
 
 ___
 
+📁 **Project Structure**
+
+crop-yield-project/
+│── CropYieldPrediction.ipynb   # Main notebook
+│── Data/
+│     └── yield_df.csv          # Dataset (local copy)
+│── LICENSE
+│── README.md
