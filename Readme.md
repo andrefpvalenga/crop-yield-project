@@ -44,3 +44,25 @@ The dataset contains agricultural and environmental information per **country**,
 It is a simplified version of data available at **FAO (Food and Agriculture Organization)** and **World Data Bank**.
 
 ___
+
+### 🔍 **Exploratory Data Analysis (EDA)**
+
+The EDA covered:
+
+✔ **Distribution analysis**
+
+- Most features show skewness and presence of outliers.
+- Outliers were **not removed**, as they reflect real agricultural variability.
+
+✔ **Correlation insights**
+
+- Weak correlation with the target variable, indicating a **complex non-linear problem**.
+- Temperature shows a slight negative relationship.
+- Pesticide usage shows a slight positive one.
+
+✔ **Crop and region variability**
+
+- Production patterns vary strongly by country and crop.
+- Some crops dominate yield variance.
+
+__
