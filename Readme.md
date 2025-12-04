@@ -1,6 +1,6 @@
-🌾 **Crop Yield Prediction — Machine Learning Project**
+## 🌾 **Crop Yield Prediction — Machine Learning Project**
 
-📌 **Overview**
+### 📌 **Overview**
 
 This project aims to predict **crop yield (hg/ha)** using classical Machine Learning models based on environmental and agricultural data.
 It demonstrates a full end-to-end Data Science workflow including:
