@@ -65,4 +65,25 @@ The EDA covered:
 - Production patterns vary strongly by country and crop.
 - Some crops dominate yield variance.
 
-__
+___
+
+### 🤖 **Models Implemented**
+
+Three baseline regression models were trained and evaluated:
+
+- **Decision Tree Regressor**
+- **Random Forest Regressor**
+- **Gradient Boosting Regressor**
+
+#### ✔ **Best Model**
+
+The **Random Forest Regressor** performed the best in the baseline setup.
+
+#### ✔ Why Random Forest won
+
+- Better handling of non-linear relationships
+- Robustness to outliers
+- Natural ability to rank feature importances
+- Consistent performance across folds in cross-validation
+
+___
