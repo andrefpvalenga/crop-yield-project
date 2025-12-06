@@ -123,3 +123,19 @@ ___
 ```
 git clone https://github.com/yourusername/crop-yield-project.git
 ```
+
+2. Install the dependencies:
+```
+pip install -r requirements.txt
+```
+
+3. Run the notebook:
+```
+jupyter notebook CropYieldPrediction.ipynb
+```
+
+Dataset must be placed inside the folder:
+```
+Data/yield_df.csv
+```
+___
