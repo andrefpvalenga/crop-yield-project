@@ -117,3 +117,9 @@ This influences future modeling decisions.
 
 ___
 
+### 🧪 How to Run
+
+1. Clone the repository:
+```
+git clone https://github.com/yourusername/crop-yield-project.git
+```
