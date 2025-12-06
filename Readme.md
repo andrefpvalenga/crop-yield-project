@@ -90,12 +90,30 @@ ___
 
 ### 📈 Results (Summary)
 
-| Model             | Performance Summary                          |
-| ----------------- | -------------------------------------------- |
-| Decision Tree     | Solid performance; close results to RF       |
-| Gradient Boosting | Lowest performance among the three models    |
-| **Random Forest** | Best overall results; slightly superior to DT|
+| Model             | Performance Summary                                           |
+| ----------------- | ------------------------------------------------------------- |
+| Decision Tree     | Strong performance; close to RF; slightly higher RMSE         |
+| Gradient Boosting | Underperformed significantly; much higher error               |
+| **Random Forest** | Best overall model (highest R², lowest RMSE and MSE)          |
+
 
 > For full metrics (MAE, MSE, RMSE, R²), refer to the notebook.
 
 ___
+
+### 🧠 Feature Importance (Insight)
+
+Random Forest revealed that:
+
+- **Crop type (Item) is overwhelmingly the most important variable**, meaning
+
+  - the dataset is dominated by categorical agricultural patterns,
+
+  - possibly requiring domain-specific encoding or feature engineering.
+
+- Climatic variables have weaker but meaningful contributions.
+
+This influences future modeling decisions.
+
+___
+
