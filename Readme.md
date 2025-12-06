@@ -145,35 +145,27 @@ This model can support real agricultural decision-making in:
 #### 🌱 Producers and agronomists
 
 - Choosing crops based on expected yield
-
 - Estimating profitability before planting
-
 - Planning irrigation and fertilizer use
 
 #### 🚜 Cooperatives
 
 - Anticipating production volume
-
 - Planning storage and logistics
-
 - Negotiating contracts and inputs
 
 #### 🏭 Industry & agribusiness
 
 - Forecasting demand for raw materials
-
 - Strategic procurement and supply chain planning
 
 #### 🏛 Government & agencies
 
 - National crop forecasting
-
 - Food security planning
-
 - Price and inflation monitoring
 
 #### 💰 Banks & insurers
 
 - Rural credit risk estimation
-
 - Pricing rural insurance policies
