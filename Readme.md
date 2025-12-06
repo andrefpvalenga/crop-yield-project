@@ -107,11 +107,8 @@ ___
 Random Forest revealed that:
 
 - **Crop type (Item) is overwhelmingly the most important variable**, meaning
-
   - the dataset is dominated by categorical agricultural patterns,
-
   - possibly requiring domain-specific encoding or feature engineering.
-
 - Climatic variables have weaker but meaningful contributions.
 
 This influences future modeling decisions.
