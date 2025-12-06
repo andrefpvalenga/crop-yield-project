@@ -24,6 +24,7 @@ crop-yield-project/
 │     └── yield_df.csv          # Dataset (local copy)
 │── LICENSE
 │── README.md
+|── requirements.txt
 ```
 
 ___
@@ -121,7 +122,7 @@ ___
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/crop-yield-project.git
+git clone https://github.com/andrefpvalenga/crop-yield-project
 ```
 
 2. Install the dependencies:
